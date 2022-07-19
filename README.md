@@ -7,7 +7,7 @@
 > Esse é um projeto para aplicar o conhecimento adquirido com as tecnologias vanilla javascript.
 
 <p>
-  <img alt="Layout" src="https://user-images.githubusercontent.com/64434954/179644654-38c9c130-4bca-4b80-93b0-5ec19d88c7cd.mov" style="width: 200px; height: auto;"/>
+  <img alt="Layout" src="https://user-images.githubusercontent.com/64434954/179645208-a097357a-d003-410a-9d92-52d9ec68d3c6.gif" style="width: 200px; height: auto;"/>
 </p>
 
 ### 🖊 Relato
